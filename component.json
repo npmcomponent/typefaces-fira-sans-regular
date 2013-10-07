@@ -1,0 +1,13 @@
+{
+  "name": "fira-sans-regular",
+  "repo": "typefaces/fira-sans-regular",
+  "description": "The Fira Sans Regular typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-sans-regular.eot",
+    "fonts/fira-sans-regular.ttf",
+    "fonts/fira-sans-regular.woff"
+  ]
+}
