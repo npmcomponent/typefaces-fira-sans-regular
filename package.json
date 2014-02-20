@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-fira-sans-regular",
+  "description": "The Fira Sans Regular typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
